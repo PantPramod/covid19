@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+h1{
+    background:black;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+
+body{
+    background: rgba(153, 229, 183, 0.609);
+}
+.search{
+    text-align: center;
+    background: rgba(228, 203, 170, 0.877);
+    padding: 5px;
+}
+#country{
+    width: 70%;
+    padding: 6px 12px;
+    margin: 10px;
+}
+button{
+    color: white;
+    background: blue;
+    padding:6px 12px;
+    font-size: 17px;
+}
+::placeholder{
+    color:black
+}
+.card{
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  background: rgba(151, 212, 240, 0.753); 
+  padding: 30px 0px 50px 30px;
+  margin: 30px;
+  max-width: 350px;
+  border-radius: 20px;
+    
+}
+
+.card2{
+    border: 10px solid black; 
+  padding: 30px 0px 50px 30px;
+  margin: 30px;
+  max-width: 350px;
+  background: white;
+ float: left;   
+}
+.cen{
+    text-align: center;
+}
+.a{
+    font-size: 25px;
+    text-align: center;
+    color:red;
+}
+.b{
+    color: white;
+
+    background: blue;
+}
+.c{
+    background: red;
+    color: white;
+    
+}
+.d{
+    color: white;
+    background: green;
+    
+}
+.e{
+    color: orangered;
+    background: palegreen;
+    
+}
+.f{
+    color: orangered;
+    background: palegreen;
+    width: auto;
+}
+.g{
+    font-size: 15px;
+}
